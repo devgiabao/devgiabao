@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'meadme Lien Gia Bao</h1>
+<h1 align="center">Hi 👋, My name is Lien Gia Bao</h1>
 <h3 align="center">A Game Developer from Vietnam</h3>
 
 <h3 align="left">Connect with me:</h3>
