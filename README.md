@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **AI / ML, CP, Web Dev,...**
 
-- 👨‍💻 All of my projects are available at [liengiabao.io.vn](liengiabao.io.vn)
+- 👨‍💻 All of my projects are available at [liengiabao.io.vn](https://liengiabao.io.vn)
 
-- 📝 I regularly write articles on [liengiabao.io.vn](liengiabao.io.vn)
+- 📝 I regularly write articles on [liengiabao.io.vn](https://liengiabao.io.vn)
 
 - 📫 How to reach me **liengiabao.vn@gmail.com**
 
